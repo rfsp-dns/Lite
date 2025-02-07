@@ -4,7 +4,7 @@
 
 ### Disclaimer
 
-This is a simple programming languages, only containing the basic stuff.
+This is a simple programming language, only containing the basic stuff.
 
 ## About 
 
